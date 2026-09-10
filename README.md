@@ -25,6 +25,5 @@ Accurate crop yield forecasting is critical for global food security, supply cha
 ```text
 ├── data/               # Raw and processed multi-county agricultural datasets
 ├── notebooks/          # Exploratory data analysis and feature engineering experiments
-├── src/                # Modular Python scripts for pipeline execution and modeling
-├── outputs/            # Evaluation metrics, performance plots, and saved model artifacts
+├── report/            # Evaluation metrics, performance plots, and saved model artifacts
 └── README.md
